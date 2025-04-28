@@ -51,3 +51,23 @@ Once the model is trained, it can predict the sentiment of unseen tweets.
 ### 1. **Clone the Repository**
 Clone this repository to your local machine:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Future Improvements
+Use Word Embeddings like Word2Vec, GloVe, or BERT for better accuracy.
+
+Deploy the model using Streamlit or Flask for real-time predictions on tweets.
+
+Implement Hyperparameter Tuning to improve the model's performance.
+
